@@ -1,0 +1,160 @@
+{
+  "source_file": "narration-source.m4a",
+  "source_sha256": "c2858cfe2abd8c3f30179c43e9c33916ec3d149860ddce2da1d5afae639349da",
+  "duration": 59.4,
+  "lead_seconds": 0.2,
+  "tail_seconds": 0.4,
+  "keep_intervals": [
+    [
+      1.221973,
+      9.037846
+    ],
+    [
+      9.656077,
+      15.533152
+    ],
+    [
+      16.447755,
+      17.931293
+    ],
+    [
+      18.249524,
+      21.99771
+    ],
+    [
+      22.47288,
+      26.880726
+    ],
+    [
+      27.261134,
+      30.104739
+    ],
+    [
+      30.923333,
+      36.880363
+    ],
+    [
+      37.710363,
+      41.626508
+    ],
+    [
+      42.612902,
+      45.65
+    ],
+    [
+      62.041293,
+      67.623764
+    ],
+    [
+      67.921383,
+      71.153197
+    ],
+    [
+      76.73,
+      81.347755
+    ],
+    [
+      81.719342,
+      87.43195
+    ],
+    [
+      87.741995,
+      90.309841
+    ],
+    [
+      91.479138,
+      102.863764
+    ],
+    [
+      114.783741,
+      116.14288
+    ],
+    [
+      117.548685,
+      124.544921
+    ]
+  ],
+  "removed_retakes": [
+    [
+      45.65,
+      61.9
+    ],
+    [
+      71.18,
+      76.73
+    ],
+    [
+      102.9,
+      114.72
+    ]
+  ],
+  "pause_policy": "For detected pauses longer than 0.55 s, preserve 0.16 s at each edge. Cut boundaries retain speech padding.",
+  "sentences": [
+    {
+      "sentence_index": 0,
+      "scene": 0,
+      "source_start": 1.04,
+      "source_end": 8.64
+    },
+    {
+      "sentence_index": 1,
+      "scene": 0,
+      "source_start": 9.54,
+      "source_end": 14.96
+    },
+    {
+      "sentence_index": 2,
+      "scene": 0,
+      "source_start": 16.06,
+      "source_end": 21.7
+    },
+    {
+      "sentence_index": 3,
+      "scene": 1,
+      "source_start": 22.46,
+      "source_end": 29.7
+    },
+    {
+      "sentence_index": 4,
+      "scene": 1,
+      "source_start": 30.74,
+      "source_end": 36.46
+    },
+    {
+      "sentence_index": 5,
+      "scene": 1,
+      "source_start": 37.64,
+      "source_end": 45.2
+    },
+    {
+      "sentence_index": 6,
+      "scene": 2,
+      "source_start": 62.06,
+      "source_end": 70.52
+    },
+    {
+      "sentence_index": 7,
+      "scene": 2,
+      "source_start": 76.76,
+      "source_end": 81.44
+    },
+    {
+      "sentence_index": 8,
+      "scene": 3,
+      "source_start": 81.74,
+      "source_end": 89.84
+    },
+    {
+      "sentence_index": 9,
+      "scene": 3,
+      "source_start": 90.84,
+      "source_end": 102.54
+    },
+    {
+      "sentence_index": 10,
+      "scene": 4,
+      "source_start": 113.98,
+      "source_end": 124.1
+    }
+  ]
+}

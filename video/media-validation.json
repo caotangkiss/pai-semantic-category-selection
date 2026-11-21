@@ -1,0 +1,14 @@
+{
+  "format": {
+    "duration": "59.407125",
+    "size": "1716043"
+  },
+  "sentence_count": 11,
+  "word_count": 142,
+  "loudness": {
+    "input_i": "-16.15",
+    "input_tp": "-1.49",
+    "input_lra": "5.50"
+  },
+  "video_sha256": "39d8c28244cdd2dee1345c00fc3053d5b25eaae41f77c6518644e7119ec49a74"
+}

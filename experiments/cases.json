@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "studyType": "exploratory",
+  "lockedTestSet": false,
+  "cases": [
+    {
+      "id": "ketchup",
+      "prompt": "I put ketchup on my"
+    },
+    {
+      "id": "mustard",
+      "prompt": "I put mustard on my"
+    },
+    {
+      "id": "article",
+      "prompt": "I put ketchup on a"
+    },
+    {
+      "id": "cream",
+      "prompt": "I put cream on my"
+    },
+    {
+      "id": "pronoun",
+      "prompt": "I put ketchup on her"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+[
+  {
+    "sentence_index": 0,
+    "scene": 0,
+    "source_start": 1.04,
+    "source_end": 8.64,
+    "start": 0,
+    "end": 5.906228713777547
+  },
+  {
+    "sentence_index": 1,
+    "scene": 0,
+    "source_start": 9.54,
+    "source_end": 14.96,
+    "start": 5.906228713777547,
+    "end": 10.196975776584756
+  },
+  {
+    "sentence_index": 2,
+    "scene": 0,
+    "source_start": 16.06,
+    "source_end": 21.7,
+    "start": 10.196975776584756,
+    "end": 14.016563647492987
+  },
+  {
+    "sentence_index": 3,
+    "scene": 1,
+    "source_start": 22.46,
+    "source_end": 29.7,
+    "start": 14.016563647492987,
+    "end": 19.310717980956554
+  },
+  {
+    "sentence_index": 4,
+    "scene": 1,
+    "source_start": 30.74,
+    "source_end": 36.46,
+    "start": 19.310717980956554,
+    "end": 23.65983875541569
+  },
+  {
+    "sentence_index": 5,
+    "scene": 1,
+    "source_start": 37.64,
+    "source_end": 45.2,
+    "start": 23.65983875541569,
+    "end": 28.74993442112333
+  },
+  {
+    "sentence_index": 6,
+    "scene": 2,
+    "source_start": 62.06,
+    "source_end": 70.52,
+    "start": 28.74993442112333,
+    "end": 35.19333064817096
+  },
+  {
+    "sentence_index": 7,
+    "scene": 2,
+    "source_start": 76.76,
+    "source_end": 81.44,
+    "start": 35.19333064817096,
+    "end": 38.557850335932734
+  },
+  {
+    "sentence_index": 8,
+    "scene": 3,
+    "source_start": 81.74,
+    "source_end": 89.84,
+    "start": 38.557850335932734,
+    "end": 44.58817927105552
+  },
+  {
+    "sentence_index": 9,
+    "scene": 3,
+    "source_start": 90.84,
+    "source_end": 102.54,
+    "start": 44.58817927105552,
+    "end": 52.89989055101343
+  },
+  {
+    "sentence_index": 10,
+    "scene": 4,
+    "source_start": 113.98,
+    "source_end": 124.1,
+    "start": 52.89989055101343,
+    "end": 59.4
+  }
+]

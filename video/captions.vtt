@@ -1,0 +1,43 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:05.906
+Can a language model choose a more sensible next token by
+considering related candidates together?
+
+00:00:05.906 --> 00:00:10.197
+This matters to researchers and developers seeking better text
+generation.
+
+00:00:10.197 --> 00:00:14.017
+Greedy decoding simply picks the single most probable token.
+
+00:00:14.017 --> 00:00:19.311
+After “I put ketchup on my,” we normally expect food, yet greedy
+decoding selects face.
+
+00:00:19.311 --> 00:00:23.660
+Salad, burger, and sandwich rank highly, with salad only
+slightly below face.
+
+00:00:23.660 --> 00:00:28.750
+Their combined probability is over twice face's, consistent with
+that expectation.
+
+00:00:28.750 --> 00:00:35.193
+My rule groups supported candidates by meaning and applies two
+thresholds, keeping the model's probabilities unchanged.
+
+00:00:35.193 --> 00:00:38.558
+Changing a parameter reruns selection, not GPT-2.
+
+00:00:38.558 --> 00:00:44.588
+At default settings, face changes to salad in the ketchup case;
+the other four remain unchanged.
+
+00:00:44.588 --> 00:00:52.900
+These five related examples give me initial confidence in the
+approach, but its benefits on new prompts still need testing.
+
+00:00:52.900 --> 00:00:59.400
+Next, I would expand semantic categories and test more varied
+inputs.

@@ -1,0 +1,19 @@
+{
+  "source_duration": 126.200454,
+  "kept_duration": 80.53889099999999,
+  "tempo": 1.3697090306122448,
+  "processed_duration": 59.453563,
+  "processing": "highpass=f=70,lowpass=f=10000,afftdn=nr=6:nf=-50:tn=1,rubberband=tempo=1.3697090306:pitch=1:formant=preserved,adelay=200,apad,atrim=duration=59.4",
+  "loudness_first_pass": {
+    "input_i": "-31.76",
+    "input_tp": "-12.17",
+    "input_lra": "8.30",
+    "input_thresh": "-42.04",
+    "output_i": "-16.39",
+    "output_tp": "-1.50",
+    "output_lra": "5.30",
+    "output_thresh": "-26.56",
+    "normalization_type": "dynamic",
+    "target_offset": "0.39"
+  }
+}

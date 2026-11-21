@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img"><title>Beyond the Top Token: category-guided next-token selection with GPT-2</title>
+<rect width="1600" height="900" fill="#f7f6f1"/>
+<rect x="0" y="0" width="24" height="900" rx="0" fill="#087e79"/>
+<text x="82" y="64" fill="#50626c" font-family="Arial, sans-serif" font-size="24" font-weight="700" dominant-baseline="text-before-edge">PROBABILITY FOR AI  /  FINAL PROJECT</text>
+<text x="80" y="152" fill="#142b3b" font-family="Arial, sans-serif" font-size="92" font-weight="700" dominant-baseline="text-before-edge">Beyond the</text>
+<text x="80" y="258" fill="#142b3b" font-family="Arial, sans-serif" font-size="92" font-weight="700" dominant-baseline="text-before-edge">Top Token</text>
+<text x="84" y="390" fill="#50626c" font-family="Arial, sans-serif" font-size="40" font-weight="400" dominant-baseline="text-before-edge">Can category probability change GPT-2&#x27;s</text>
+<text x="84" y="444" fill="#50626c" font-family="Arial, sans-serif" font-size="40" font-weight="400" dominant-baseline="text-before-edge">next word?</text>
+<rect x="82" y="540" width="1436" height="110" rx="12" fill="#142b3b"/>
+<text x="122" y="575" fill="#ffffff" font-family="Courier New, monospace" font-size="43" font-weight="400" dominant-baseline="text-before-edge">I put ketchup on my ...</text>
+<text x="88" y="705" fill="#142b3b" font-family="Arial, sans-serif" font-size="57" font-weight="700" dominant-baseline="text-before-edge">face</text>
+<text x="88" y="775" fill="#50626c" font-family="Arial, sans-serif" font-size="26" font-weight="400" dominant-baseline="text-before-edge">4.045% original probability</text>
+<line x1="440" y1="736" x2="560" y2="736" stroke="#087e79" stroke-width="5"/>
+<line x1="543" y1="724" x2="560" y2="736" stroke="#087e79" stroke-width="5"/>
+<line x1="543" y1="748" x2="560" y2="736" stroke="#087e79" stroke-width="5"/>
+<text x="610" y="705" fill="#087e79" font-family="Arial, sans-serif" font-size="57" font-weight="700" dominant-baseline="text-before-edge">salad</text>
+<text x="612" y="775" fill="#50626c" font-family="Arial, sans-serif" font-size="26" font-weight="400" dominant-baseline="text-before-edge">3.704% original probability</text>
+<rect x="1000" y="145" width="516" height="334" rx="16" fill="#e2efeb"/>
+<text x="1030" y="180" fill="#142b3b" font-family="Arial, sans-serif" font-size="33" font-weight="700" dominant-baseline="text-before-edge">Supported food group</text>
+<text x="1030" y="262" fill="#087e79" font-family="Arial, sans-serif" font-size="104" font-weight="700" dominant-baseline="text-before-edge">2.03×</text>
+<text x="1032" y="408" fill="#50626c" font-family="Arial, sans-serif" font-size="30" font-weight="400" dominant-baseline="text-before-edge">the probability of “face”</text>
+<text x="1100" y="724" fill="#142b3b" font-family="Arial, sans-serif" font-size="31" font-weight="700" dominant-baseline="text-before-edge">5 real cases</text>
+<text x="1100" y="770" fill="#50626c" font-family="Arial, sans-serif" font-size="25" font-weight="400" dominant-baseline="text-before-edge">Exploratory study</text>
+</svg>

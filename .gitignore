@@ -1,0 +1,32 @@
+node_modules/
+dist/
+.venv/
+__pycache__/
+*.py[cod]
+.cache/
+.DS_Store
+.env
+.env.*
+models/
+outputs/
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.zh-CN.md
+!video/VIDEO-REVISION-DRAFT.zh-CN.md
+.idea/
+
+# Private recordings and local media working files; publish the final demo only.
+video/*.m4a
+video/*.wav
+video/*.aiff
+video/archive/
+video/frames/
+
+# Local credentials and logs must never be published.
+*.pem
+*.key
+*.p12
+*.pfx
+*.log
